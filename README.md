@@ -1,4 +1,4 @@
-# MapleUnity simple web.py 
+# MapleUnity simple webpy 
 
 run in the main directory
 
