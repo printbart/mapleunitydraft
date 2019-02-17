@@ -1,4 +1,4 @@
-# mapleunitydraft
+# MapleUnity simple web.py 
 
 run in the main directory
 
